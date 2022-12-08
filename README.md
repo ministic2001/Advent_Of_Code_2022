@@ -24,9 +24,9 @@ As preperation for CTF Writeups, I want to have a proper file directory structur
 │   ├── day1part2.py
 │   ├── raw data.txt
 │   └── README.md (Question for Day 1)
-├── Day 2 - Something Something/
-│   ├── day1part1.py
-│   ├── day1part2.py
+├── Day 2 - Rock Paper Scissors/
+│   ├── day2part1.py
+│   ├── day2part2.py
 │   ├── raw data.txt
 │   └── README.md (Question for Day 2)
 ├── Day ... - .../

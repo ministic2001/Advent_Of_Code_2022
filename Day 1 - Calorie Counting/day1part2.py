@@ -52,9 +52,6 @@ def get_top_3_highest_elves(each_elf_total_calories_array: list[int]) ->list[lis
         each_elf_total_calories_array.pop(most_calories_elf)
     return top_no_calories_array
 
-
-
-
 def main():
     raw_data: str = file_reader(CURRENT_WORKING_DIRECTORY + r"/" + FILE)
 
